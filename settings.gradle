@@ -1,0 +1,6 @@
+rootProject.name = "omnipay"
+
+
+include "omnipay-library"
+include "omnipay-microservice"
+
