@@ -1,4 +1,9 @@
 # omnipay-java-binding
+
+[![Build Status](https://travis-ci.org/sleroy/omnipay-java-binding.svg?branch=master)](https://travis-ci.org/sleroy/omnipay-java-binding)
+
+
+
 Port of Omnipay in Spring Boot as Microservice.
 
 This project is an attempt to port Omnipay (an opensource Payment gateway framework written in PHP) as a Spring Boot Microservice.
