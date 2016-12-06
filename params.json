@@ -1,0 +1,6 @@
+{
+  "name": "Omnipay-java-binding",
+  "tagline": "Port of Omnipay in Spring Boot as Microservice.",
+  "body": "### Omniboot-java\r\n\r\nThis is an attempt to port Omnipay in PHP as a microservice with Spring Boot.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
